@@ -93,9 +93,9 @@ Your final grade will be computed as follows.
 
 Component |	Weight
 ---------|---------
-Engaged Participation	| 5%
+Engaged Participation	| 10%
 Quizzes |	7%
-Assignments/Labs	 | 40%
+Assignments/Labs	 | 35%
 Biographical Presentation	| 7%
 Final Project	| 15%
 Midterm Exam | 12%
